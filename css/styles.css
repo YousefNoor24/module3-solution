@@ -49,3 +49,7 @@ h1 {
     line-height: 1.6;
 }
 
+.back-top, .back-top:hover, .back-top:visited {
+    color: darkblue;
+}
+
